@@ -5,7 +5,7 @@ A simple NodeJS web application which communicates with MongoDB. Useful for test
 ```
 https://che-eclipse-che.apps.ocpcluster.peterho.internal/factory?url=https://github.com/peter-ho-organization/nodejs-mongodb-sample
 ```
-[![Contribute](factory-contribute.svg)](https://che-eclipse-che.apps.ocpcluster.peterho.internal/factory?url=https://github.com/peter-ho-organization/nodejs-mongodb-sample)
+[![Contribute](https://github.com/redhat-developer-demos/quarkus-reactjs-postit-app/raw/master/factory-contribute.svg)](https://che-eclipse-che.apps.ocpcluster.peterho.internal/factory?url=https://github.com/peter-ho-organization/nodejs-mongodb-sample)
 
 # MongoDB
 The application connects to the Mongo data base, so it should be configured with next parameters:
