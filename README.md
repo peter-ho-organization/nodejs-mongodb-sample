@@ -7,6 +7,11 @@ https://che-eclipse-che.apps.ocpcluster.peterho.internal/factory?url=https://git
 ```
 [![Contribute](https://github.com/redhat-developer-demos/quarkus-reactjs-postit-app/raw/master/factory-contribute.svg)](https://che-eclipse-che.apps.ocpcluster.peterho.internal/factory?url=https://github.com/peter-ho-organization/nodejs-mongodb-sample)
 
+```
+https://codeready-extension-codeready-workspaces.apps.ocpcluster.peterho.internal/factory?url=https://github.com/peter-ho-organization/nodejs-mongodb-sample
+```
+[![Contribute](https://github.com/redhat-developer-demos/quarkus-reactjs-postit-app/raw/master/factory-contribute.svg)](https://codeready-extension-codeready-workspaces.apps.ocpcluster.peterho.internal/factory?url=https://github.com/peter-ho-organization/nodejs-mongodb-sample)
+
 # MongoDB
 The application connects to the Mongo data base, so it should be configured with next parameters:
 - MongoDB user - <b>user</b>
